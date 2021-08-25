@@ -1,4 +1,4 @@
-### Hi, I’m Abhishek Mahato <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px" width="35px"/>
+<h1>Hi, I’m Abhishek Mahato <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px" width="35px"/></h1>
 
 - 🔭 I’m currently working on a Hotel website.
 - 🌱 I’m currently learning Full Stack web Development (MERN).
@@ -14,5 +14,5 @@
 
 ### 😄 Pronouns: He/His
 ### ⚡ Fun fact: I love playing Cricket.
-### Glad to see you here !! <img src="https://visitor-badge.glitch.me/badge?page_id=abhishekmah" height="20px" width="80px">
+### Glad to see you here !! <img src="https://visitor-badge.glitch.me/badge?page_id=abhishekmah" height="23px" width="80px">
 
