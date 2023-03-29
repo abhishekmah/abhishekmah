@@ -11,7 +11,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhishekmah&&show_icons=true&title_color=bb2acf&icon_color=bb2acf&text_color=#000000&bg_color=#FFFFFF" />
 
-### 😄 Pronouns: He/His
-### ⚡ Fun fact: I love playing Cricket.
-### Glad to see you here !! <img src="https://visitor-badge.glitch.me/badge?page_id=abhishekmah" height="23px" width="80px">
 
